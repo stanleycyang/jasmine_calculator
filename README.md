@@ -1,6 +1,4 @@
-![Build passing](https://travis-ci.org/syang019/jasmine_calculator.svg?branch=master)
-
-#Jasmine Calculator
+#Jasmine Calculator ![Build passing](https://travis-ci.org/syang019/jasmine_calculator.svg?branch=master)
 
     Basic testing with jasmine: 
         - Created JS functions to add, subtract, multiply, and divide
