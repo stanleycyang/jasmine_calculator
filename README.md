@@ -5,6 +5,7 @@
     Basic testing with jasmine: 
         - Created JS functions to add, subtract, multiply, and divide
         - Use jasmine to test all the edge cases
+        - Use Travis CI for testing
 
 ###Installation
 
