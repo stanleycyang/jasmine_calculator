@@ -1,3 +1,5 @@
+![Build passing](https://travis-ci.org/syang019/jasmine_calculator.svg?branch=master)
+
 #Jasmine Calculator
 
     Basic testing with jasmine: 
