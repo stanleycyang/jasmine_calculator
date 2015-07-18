@@ -8,6 +8,6 @@
 
     git clone https://github.com/syang019/jasmine_calculator.git
 
-###Questions 
+###Questions?
 
     Contact me: stanley@stanleycyang.com
